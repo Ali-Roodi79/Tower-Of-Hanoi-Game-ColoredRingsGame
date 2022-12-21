@@ -18,15 +18,19 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 
 ---
 
-- We enter the server **IP** in the first field and the server **port** in the second field and activate the server by pressing the **"set"** button.
-- Then we specify the number of clients that the server can respond to in the next field, and by pressing the **"Start Accepting"** button, the server starts accepting clients:
+- At first, you must specify the number of columns and numbers (or rings)
+- First, you specify the number of columns and press enter, and then you specify the number of rings(Numbers) and press enter:
+
+> Minimum value of columns should be 3 due to game rules and Maximum value is 15 because otherwise does not fit in console window.
+
+> Minimum value of rings should be 2 due to game rules and Maximum value is 35 because otherwise does not fit in console window.
 
 
 ![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Determining%20the%20number%20of%20columns%20%26%20rings.png)
 
 ---
 
-Also, in the third section, you can go to the management page of a specific client by searching for the IP and port of that client and pressing the "Find" button.
+- For example, in the image above, I set the number of columns to 3 and the number of rings to 9, now we can see the result:
 
 
 ![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Display%20the%20game%20screen1.png)
