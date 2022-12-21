@@ -17,7 +17,7 @@ namespace Tower_Of_Hanoi
             Console.WriteLine("\r\n  Note!!! :(Minimum value of columns should be 3 due to game rules \r\n  and Maximum value is 15 because otherwise does not fit in console window.) \r\n\r\n  Columns (3 < C < 15): ");
             Console.Write("  ");
             int NumberOfColumns = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("  Note!!! :(Minimum value of rings should be 2 due to game rules \r\n  and Maximum value is 35 because otherwise does not fit in console window.) \r\n  Ringss (2 < R < 35): ");
+            Console.WriteLine("  Note!!! :(Minimum value of rings should be 2 due to game rules \r\n  and Maximum value is 35 because otherwise does not fit in console window.) \r\n  Rings (2 < R < 35): ");
             Console.Write("  ");
             int NumberOfRings = Convert.ToInt32(Console.ReadLine());
             CreateGame(NumberOfColumns, NumberOfRings);
