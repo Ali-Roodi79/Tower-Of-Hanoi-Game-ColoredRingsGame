@@ -44,8 +44,20 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 
 ---
 
-- On this page, the username, password, IP address, port and traffic received by our target client are displayed.
-- You can also close this client's socket and disconnect it from the server.
+- At this point, you will see at the bottom of the picture that you are asked to specify how to solve this game, whether you will solve it yourself or you want the computer to solve it by itself.
 
-> Also, on the main page, as a server, you can send a single message to all clients and also turn off the server
->  by pressing the power button (upper right of the page).
+- If you type the number 1 and then press enter, you can play the game and solve the problem yourself. But if you type the number 2 and then press enter, the computer will solve it
+
+## An example of solving the problem by the user
+
+
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Solve%20by%20user.gif)
+
+---
+
+## An example of solving the problem by computer
+
+
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Solve%20by%20computer.gif)
+
+---
