@@ -11,10 +11,10 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 
 ## How to use:
 
-- When you run the project, this wpf screens will be displayed:
+- When you run the project, this Console screen will be displayed:
 
 
-![image](https://github.com/Ali-Roodi79/Voice-Server-VoIP/blob/main/assets/img/MainPage.png)
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/MainConsolePage.png)
 
 ---
 
