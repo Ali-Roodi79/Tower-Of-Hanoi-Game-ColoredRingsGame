@@ -18,7 +18,7 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 
 ---
 
-- At first, you must specify the number of columns and numbers (or rings)
+- At first, you must specify the number of **columns** and **numbers** (or rings)
 - First, you specify the number of columns and press enter, and then you specify the number of rings(Numbers) and press enter:
 
 > Minimum value of columns should be 3 due to game rules and Maximum value is 15 because otherwise does not fit in console window.
@@ -30,10 +30,17 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 
 ---
 
-- For example, in the image above, I set the number of columns to 3 and the number of rings to 9, now we can see the result:
+- For example, in the image above, I set the number of columns to **3** and the number of rings to **9**, now we can see the result:
 
 
 ![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Display%20the%20game%20screen1.png)
+
+---
+
+- In another example, I set the number of columns to **10** and the number of rings to **25**, and we can see the result in the image below:
+
+
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Display%20the%20game%20screen2.png)
 
 ---
 
