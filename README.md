@@ -22,14 +22,14 @@ The numbers are placed on the columns in an unbalanced way. You have to arrange 
 - Then we specify the number of clients that the server can respond to in the next field, and by pressing the **"Start Accepting"** button, the server starts accepting clients:
 
 
-![image](https://github.com/Ali-Roodi79/Voice-Server-VoIP/blob/main/assets/img/Set-Server-IP-Port-and-binding.png)
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Determining%20the%20number%20of%20columns%20%26%20rings.png)
 
 ---
 
 Also, in the third section, you can go to the management page of a specific client by searching for the IP and port of that client and pressing the "Find" button.
 
 
-![image](https://github.com/Ali-Roodi79/Voice-Server-VoIP/blob/main/assets/img/ClientsPage.png)
+![image](https://github.com/Ali-Roodi79/Tower-Of-Hanoi-Game-ColoredRingsGame/blob/main/assets/img/Display%20the%20game%20screen1.png)
 
 ---
 
